@@ -1,10 +1,11 @@
-//let x = "";
-
-//console.log(x);
-//x = "oi"
+function soma(){
+    return 2 + 2;
+}
 
 function imprimeTexto(texto){
     console.log(texto)
 }
 
-imprimeTexto("outro txt");
+imprimeTexto(soma())
+
+console.log([3] === [3])

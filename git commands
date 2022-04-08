@@ -1,0 +1,7 @@
+$git status
+$git add .
+$git status
+$git commit -m "commit curso basico"
+$git push origin master
+
+
