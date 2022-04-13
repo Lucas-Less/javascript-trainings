@@ -5,3 +5,4 @@ $git commit -m "commit curso basico"
 $git push origin master
 
 
+array.push(x) // metodo que serve para adicionar mais um valor dentro de um array na sua ultima posicao
