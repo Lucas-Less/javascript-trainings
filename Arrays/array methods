@@ -55,3 +55,9 @@ Organiza o array de acordo com a classificação Unicode, onde os números vêm 
 
 splice()
 Consegue remover, um ou mais elementos consecutivos caso o segundo parâmetro tenha um valor maior que 0, e incluir um ou mais elementos a partir de um índice escolhido.
+
+includes(valor) / retorna boolean
+procura o valor dentro de um array
+
+indexOf()
+retorna o indice que se encontra um valor em um array
