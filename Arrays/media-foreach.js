@@ -7,4 +7,5 @@ notas.forEach(nota => {
 
 let media = somaNotas / notas.length
 
-console.log(media)
+console.log('182d4824-833a-477a-8bfb-b446d3e0af8b'.toUpperCase())
+

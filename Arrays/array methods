@@ -61,3 +61,10 @@ procura o valor dentro de um array
 
 indexOf()
 retorna o indice que se encontra um valor em um array
+
+forEach()
+executa uma função em cada posição individual do array porém não permite retorno nas funções
+
+map()
+similar com o forEach porém aceita que função retorne resultados (return)
+o método map() pode retornar um array se a função informada tiver um return em seu escopo.
