@@ -68,3 +68,7 @@ executa uma função em cada posição individual do array porém não permite r
 map()
 similar com o forEach porém aceita que função retorne resultados (return)
 o método map() pode retornar um array se a função informada tiver um return em seu escopo.
+
+reduce() 
+reduz um array de números para um único valor
+estrutura é array.reduce((acumulador, indiceAtual) => atual + acum,0 ) ou array.reduce(funcao, 0 (valor inicial do indice))
