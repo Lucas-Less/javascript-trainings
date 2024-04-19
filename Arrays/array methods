@@ -72,3 +72,10 @@ o método map() pode retornar um array se a função informada tiver um return e
 reduce() 
 reduz um array de números para um único valor
 estrutura é array.reduce((acumulador, indiceAtual) => atual + acum,0 ) ou array.reduce(funcao, 0 (valor inicial do indice))
+
+... spread operator
+cria uma copia de um array com base em um array existente sem que haja compartilhamento de recursos, assim possibilitando que as alterações feitas no array não modifiquem o array inicial:
+const array2 = [...array1]
+
+Set() class
+Classe que não permite valores duplicados dentro dela além de disponibilizar diversas funcionalidades como delete, add etc etc...
